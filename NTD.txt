@@ -1,2 +1,4 @@
 I made some changes to learn how GitShell and GitHub works
 I test again!!!!!
+Now I make a conflict. Here is the changes that i made on web
+
